@@ -1,6 +1,6 @@
 cask "text-history-box" do
-  version "1.0.3"
-  sha256 "000a81f51992cc09cefcb563bcefb115fca99ecb018c5c11da7b50ed770417ea"
+  version "1.0.2"
+  sha256 "783020e5cc48ca13d45e805facc6d21b0725f5288a5aaf34324b2d8d4436d25b"
 
   url "https://github.com/devsungmin/text-history-box/releases/download/v#{version}/TextHistoryBox-#{version}.dmg"
   name "TextHistoryBox"
